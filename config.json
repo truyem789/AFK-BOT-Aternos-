@@ -2,5 +2,5 @@
 	"ip":"Truyem789.aternos.me",
 	"port": "30795",
 	"name": "TL_AFK(BOT)",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
