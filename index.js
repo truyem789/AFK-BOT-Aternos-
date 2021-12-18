@@ -29,7 +29,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("/gamemode C");
+	bot.chat("/gamemode 1");
 	bot.chat("HI im GOD");
 	bot.chat("You can't defeat me");
 	bot.chat("Muhahaha");
