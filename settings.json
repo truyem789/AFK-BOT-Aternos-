@@ -1,0 +1,14 @@
+{
+  "token": "OTk4NTcwNjE3MDU2MDIyNTI5.Gcmjwr.fYNoT6VOuikfKhr40x__zspAZFVo3_c4u4EMps",
+  "prefix": "!",
+  "host": "teamluffy.mc-server.me",
+  "version": "1.13.2",
+  "hub_command": "/ping",
+  "anti_afk_command": "/ping",
+  "Chat_anti_AFK": true,
+  "Chat_anti_AFK_delay": 240,
+  "LoginDelay": 10,
+  "BankBot": false,
+  "EnableAdminRole": false,
+  "AdminRoleID": "123456789123456789"
+}
